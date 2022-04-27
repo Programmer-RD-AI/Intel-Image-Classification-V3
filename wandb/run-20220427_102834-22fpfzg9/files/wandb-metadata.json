@@ -1,0 +1,26 @@
+{
+    "os": "Linux-5.13.0-40-generic-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2022-04-27T04:58:47.319320",
+    "startedAt": "2022-04-27T04:58:34.925321",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/home/indika/.local/share/jupyter/runtime/kernel-aab7d180-5bb5-4a0d-ab1d-45a1d300fb62.json"
+    ],
+    "state": "running",
+    "program": "00.ipynb",
+    "root": "/media/indika/Sync/Programmer-RD-AI/Programming/Projects/Python/All/Intel-Image-Classification-V3",
+    "git": {
+        "remote": "https://github.com/Programmer-RD-AI/Intel-Image-Classification-V3.git",
+        "commit": "01b74b2fad29266bbc0fdaf9dd617a0807c2d985"
+    },
+    "email": "go2ranuga@gmail.com",
+    "host": "programmer-rd-ai",
+    "username": "indika",
+    "executable": "/usr/bin/python3"
+}
